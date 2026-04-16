@@ -14,3 +14,7 @@ function greet() {
   console.log("Hello World");
 }
 
+// you are editing this...
+function greetUser(name) {
+  console.log("Hello " + name);
+}
