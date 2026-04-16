@@ -1,1 +1,1 @@
-comsole.log( " Change from GitHub (other developer) ");
+console.log( " Change from GitHub (other developer) ");
