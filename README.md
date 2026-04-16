@@ -174,4 +174,5 @@ As you work through these commands, remember:
 Happy learning! 🎓
 
 ## Added after first push
+hi there, this is a new line added after the first push.
 
